@@ -1,0 +1,43 @@
+{
+  "upload_type": "software",
+  "title": "seemps_galerkin: code and data for \"A Tensor-Network Chebyshev-Galerkin Method for Boundary-Value Problems in Computational Mechanics\"",
+  "description": "<p>Code and data accompanying <em>A Tensor-Network Chebyshev-Galerkin Method for Boundary-Value Problems in Computational Mechanics</em> (J. J. Rodríguez-Aldavero, Á. de la Rosa Velasco, J. J. García-Ripoll).</p><p>The <code>seemps_galerkin</code> package implements a quantized tensor-train (QTT) Chebyshev-Galerkin method on top of SeeMPS, together with dense Chebyshev-Galerkin and QTT finite-difference references. The repository contains the package and its test suite, five tutorial notebooks, the notebooks for the four numerical experiments of the paper and the conditioning study of its appendix, and the stored results and figures used in the paper.</p>",
+  "creators": [
+    {
+      "name": "Rodríguez-Aldavero, Juan José",
+      "affiliation": "Instituto de Física Fundamental IFF-CSIC",
+      "orcid": "0009-0001-8942-4285"
+    },
+    {
+      "name": "de la Rosa Velasco, Ángel",
+      "affiliation": "DIMME, Grupo de Durabilidad e Integridad Mecánica de Materiales Estructurales, Universidad Rey Juan Carlos",
+      "orcid": "0000-0002-5862-8605"
+    },
+    {
+      "name": "García-Ripoll, Juan José",
+      "affiliation": "Instituto de Física Fundamental IFF-CSIC",
+      "orcid": "0000-0001-8993-4624"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "tensor networks",
+    "quantized tensor trains",
+    "matrix product states",
+    "Chebyshev-Galerkin",
+    "spectral methods",
+    "boundary-value problems",
+    "computational mechanics",
+    "linear elasticity",
+    "parametric PDEs",
+    "stochastic Galerkin"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/juanjosegarciaripoll/seemps2",
+      "relation": "requires",
+      "resource_type": "software"
+    }
+  ]
+}

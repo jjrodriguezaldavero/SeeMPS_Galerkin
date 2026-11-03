@@ -1,0 +1,3 @@
+FROM dolfinx/dolfinx:stable@sha256:2ae4bfbc0d9077268880faf04c72750528bee986c94ab223a2c159969bd56fa8
+
+WORKDIR /work

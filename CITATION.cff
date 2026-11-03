@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+type: software
+title: "seemps_galerkin: code and data for \"A Tensor-Network Chebyshev-Galerkin Method for Boundary-Value Problems in Computational Mechanics\""
+version: 1.0.0
+license: MIT
+authors:
+  - family-names: Rodríguez-Aldavero
+    given-names: Juan José
+    affiliation: Instituto de Física Fundamental IFF-CSIC
+    orcid: "https://orcid.org/0009-0001-8942-4285"
+  - family-names: de la Rosa Velasco
+    given-names: Ángel
+    affiliation: "DIMME, Grupo de Durabilidad e Integridad Mecánica de Materiales Estructurales, Universidad Rey Juan Carlos"
+    orcid: "https://orcid.org/0000-0002-5862-8605"
+  - family-names: García-Ripoll
+    given-names: Juan José
+    affiliation: Instituto de Física Fundamental IFF-CSIC
+    orcid: "https://orcid.org/0000-0001-8993-4624"
+keywords:
+  - tensor networks
+  - quantized tensor trains
+  - Chebyshev-Galerkin
+  - boundary-value problems
+  - computational mechanics
