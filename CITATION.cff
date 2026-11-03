@@ -3,6 +3,9 @@ message: "If you use this software, please cite it as below."
 type: software
 title: "seemps_galerkin: code and data for \"A Tensor-Network Chebyshev-Galerkin Method for Boundary-Value Problems in Computational Mechanics\""
 version: 1.0.0
+doi: 10.5281/zenodo.23931798
+repository-code: "https://github.com/jjrodriguezaldavero/SeeMPS_Galerkin"
+date-released: 2026-11-03
 license: MIT
 authors:
   - family-names: Rodríguez-Aldavero

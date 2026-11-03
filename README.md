@@ -1,5 +1,7 @@
 # seemps_galerkin
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23931798.svg)](https://doi.org/10.5281/zenodo.23931798)
+
 Code and data for *A Tensor-Network Chebyshev-Galerkin Method for Boundary-Value Problems in
 Computational Mechanics* (J. J. Rodríguez-Aldavero, Á. de la Rosa Velasco, J. J. García-Ripoll).
 
@@ -87,6 +89,12 @@ package, adapted from the SeeMPS branch `feature/jacobi-hermite` (commit `44b943
 | `mps/amen/amen.py` | `seemps.solve.amen` (AMEn linear solver) |
 | `mps/amen/quadratic.py` | `seemps.operators.quadratic` |
 | `diagonal_mpo_from_mps` in `mps/factories/utils.py` | `seemps.operators.projectors` |
+
+## Citation
+
+The code and data are archived on Zenodo at
+[doi:10.5281/zenodo.23931798](https://doi.org/10.5281/zenodo.23931798). If you use them,
+please cite the archive and the paper.
 
 ## License
 
