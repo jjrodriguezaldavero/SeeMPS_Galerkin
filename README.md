@@ -1,9 +1,9 @@
-# seemps_galerkin
+# SeeMPS_Galerkin
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23931798.svg)](https://doi.org/10.5281/zenodo.23931798)
 
-Code and data for *A Tensor-Network Chebyshev-Galerkin Method for Boundary-Value Problems in
-Computational Mechanics* (J. J. Rodríguez-Aldavero, Á. de la Rosa Velasco, J. J. García-Ripoll).
+Code and data for [*A Tensor-Network Chebyshev-Galerkin Method for Boundary-Value Problems in
+Computational Mechanics*](http://arxiv.org/abs/2611.06552) (by J. J. Rodríguez-Aldavero, Á. de la Rosa Velasco, J. J. García-Ripoll).
 
 The package implements a QTT Chebyshev-Galerkin method on top of
 [SeeMPS](https://github.com/juanjosegarciaripoll/seemps2), together with dense Chebyshev-Galerkin
